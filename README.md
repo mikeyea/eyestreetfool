@@ -1,15 +1,3 @@
-## test test test##
+# AI Programming with Python Project
 
-* bullet 1
-* bullet 2
-
-This is *italics* and **bold**
-
-[My website](http://hhs.gov)
-
-```python
-import pandas as pd
-pd.read_csv()
-```
-
-#change#
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
